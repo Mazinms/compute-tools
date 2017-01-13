@@ -34,7 +34,7 @@ sudo pip3 install --upgrade pip
 
 # get some sane defaults going
 echo "Grabbing sane defaults"
-git clone https://github.com/dvbuntu/.files.git
+git clone https://github.com/Mazinms/.files.git
 
 # switch shell to zsh
 echo "switching to zsh with oh-my-zsh"
