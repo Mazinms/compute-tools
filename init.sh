@@ -19,6 +19,7 @@ pkgs=(
          'vim'
          'zsh'
          'firefox'
+         'htop'
          )
 
 echo "Installing core packages"
