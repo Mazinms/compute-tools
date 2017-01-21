@@ -58,8 +58,6 @@ do
     #sudo apt-get install $i
 done
 
-pip install tensorflow-gpu
-
 # need to edit theano, hack in an extra line
 # add cmd.append('-D_FORCE_INLINES') on line 360 to
 # /home/vanboxel/.local/lib/python3.5/site-packages/theano/sandbox/cuda/nvcc_compiler.py
